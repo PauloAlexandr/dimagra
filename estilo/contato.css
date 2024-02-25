@@ -17,7 +17,7 @@
 div.quadrado{
     display: inline-block;
     border: 2px solid black;
-    background-size: 1420px 380px;
+    background-size: 100vw;
     background-repeat: no-repeat;
     background-color: lightgrey;
     width: 1480px;
